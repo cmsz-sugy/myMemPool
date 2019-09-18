@@ -1,0 +1,12 @@
+﻿  pch.cpp
+  Link.cpp
+  Main.cpp
+d:\vsworkspace\mempool\mempool\memorypool.h(23): warning C4018: “<”: 有符号/无符号不匹配
+d:\vsworkspace\mempool\mempool\memorypool.h(48): warning C4018: “<”: 有符号/无符号不匹配
+  memoryPool.cpp
+d:\vsworkspace\mempool\mempool\memorypool.h(23): warning C4018: “<”: 有符号/无符号不匹配
+d:\vsworkspace\mempool\mempool\memorypool.h(48): warning C4018: “<”: 有符号/无符号不匹配
+d:\vsworkspace\mempool\mempool\memorypool.cpp(36): warning C4018: “<”: 有符号/无符号不匹配
+  MyMemPool.cpp
+  正在生成代码...
+  MemPool.vcxproj -> D:\VsWorkspace\MemPool\Debug\MemPool.exe
